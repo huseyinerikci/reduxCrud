@@ -1,0 +1,9 @@
+body {
+  min-height: 100vh;
+  background: #242424;
+  color: #fff;
+}
+.bg-blur {
+  backdrop-filter: blur(5px);
+  z-index: 999;
+}

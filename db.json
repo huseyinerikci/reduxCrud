@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "8b74630d-f0e2-40ff-84fe-0b0420eb9bbf",
+      "text": "redux öğren",
+      "isDone": true,
+      "createdAt": 1735496801769
+    },
+    {
+      "id": "9827391e-776b-4f43-82ec-68c2f52f6eb8",
+      "text": "typescript projesi yap",
+      "isDone": false,
+      "createdAt": 1735496805166
+    },
+    {
+      "id": "3b440a39-0f4c-4d34-8c55-79796fc9a7d6",
+      "text": "Thunk öğren ve proje yap",
+      "isDone": false,
+      "createdAt": 1735545599147
+    }
+  ]
+}
